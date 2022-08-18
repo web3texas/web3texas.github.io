@@ -250,15 +250,7 @@
   position:relative;
   display:flex;
 }
-.Vector-1{
-  position:relative;
-  z-index:15;
-  pointer-events:none;
-  margin-left:0%;
-  width:100.00000000000001%;
-  height:100.00000000000001%;
-  margin-top:0%;
-  content:url(assets/images/Vector_1.png);
+  
 }
 .Vector-1-outer{
   pointer-events:none;
@@ -270,15 +262,7 @@
   left:0;
   top:0;
 }
-.Ellipse-1{
-  position:relative;
-  z-index:12;
-  pointer-events:none;
-  margin-left:0%;
-  width:100%;
-  height:100%;
-  margin-top:0%;
-  content:url(assets/images/Ellipse_1.png);
+
 }
 .Ellipse-1-outer{
   pointer-events:none;
@@ -379,15 +363,7 @@
   position:relative;
   display:flex;
 }
-.Vector{
-  position:relative;
-  z-index:21;
-  pointer-events:none;
-  margin-left:0%;
-  width:100%;
-  height:99.99999999999999%;
-  margin-top:0%;
-  content:url(assets/images/Vector.png);
+
 }
 .Vector-outer{
   pointer-events:none;
